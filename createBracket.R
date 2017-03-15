@@ -1,7 +1,0 @@
-set.seed(1)
-library('kaggleNCAA')
-f <- system.file('Predictions/predictions2017.csv', package = "kaggleNCAA")
-dat <- parseBracket(f)
-sim <- simTourney(dat, 100, year=2017, progress=TRUE)
-bracket <- extractBracket(sim)
-printableBracket(bracket)
