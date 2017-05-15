@@ -1,5 +1,5 @@
 # March-Madness-2017
-Kaggle Competition for Predicting NCAA Basketball Tourney Games
+Kaggle Competition for Predicting NCAA Basketball Tourney Games. [Link](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness) to the associated blog post I wrote. 
 
 * **March Madness 2017.ipynb** - File with all the main data anaylsis and machine learning models. 
 * **Machine Learning and Data Analysis.ipynb** - More for experimental models and a couple more data visualizations. 
