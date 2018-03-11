@@ -5,3 +5,5 @@ Kaggle Competition for Predicting NCAA Basketball Tourney Games. [Link](https://
 * **Machine Learning and Data Analysis.ipynb** - More for experimental models and a couple more data visualizations. 
 * **Predictions for 2017 Bracket.ipynb** - Shows you how to create the prediction CSV file in a format that is suitable for Kaggle. 
 * **Applying Deep Learning.ipynb** - Tried deep learning models (TLDR: They didn't really work)
+
+[Round 2 (March Madness 2018)](https://github.com/adeshpande3/March-Madness-2018)
